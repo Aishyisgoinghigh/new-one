@@ -1,0 +1,39 @@
+index.html
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ruqayia Interior Services</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#courses">Courses</a></li>
+        <li><a href="#about">About</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="home">
+    <div class="stars-background">
+      <h1>High Quality Interior Services</h1>
+      <p>Ruqayia Interior Services</p>
+    </div>
+  </section>
+
+  <section id="courses">
+    <!-- Add content for the courses section if needed -->
+  </section>
+
+  <section id="about">
+    <!-- Add content for the about section if needed -->
+  </section>
+</body>
+
+</html>
